@@ -96,7 +96,8 @@ names(tidytable)<-gsub("angle", "Angle", names(tidytable))
 names(tidytable)<-gsub("gravity", "Gravity", names(tidytable))
 
 
-# QUESTION 5 - creates a second, independent tidy data set with the average of
+# QUESTION 5 - creates a second, independent 
+#tidy data set with the average of
 # each variable for each activity and each subject
 
 finaltable <-
